@@ -1,0 +1,14 @@
+# editors
+.vscode/*
+
+# data files
+data/faostat/*.csv
+data/map
+data/other_sources
+
+# jekyll 
+docs/_site
+docs/.sass-cache
+docs/.jekyll-cache
+docs/.jekyll-metadata
+
